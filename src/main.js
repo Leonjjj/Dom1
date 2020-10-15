@@ -6,5 +6,5 @@ console.log(divList)
 
 dom.each(divList, (n)=> console.log(n)) // 遍历 divList 里的所有元素
 
-dom.style(div, 'color', 'blue') // 设置 div.style.color
+dom.style(div, 'color', 'red') // 设置 div.style.color
 console.log(dom.style(div, 'color'))
